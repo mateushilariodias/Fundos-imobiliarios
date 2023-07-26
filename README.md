@@ -1,3 +1,13 @@
+Este site foi desenvolvido com dois objetivos principais:
+
+Descobrir o "número mágico" em um fundo imobiliário, que é o número de cotas que um investidor deve possuir para receber o valor de uma cota todos os meses. Este valor é determinado por uma combinação de fatores, incluindo o valor atual da cota, o rendimento mensal do fundo e quaisquer alterações futuras no valor da cota.
+
+Fornecer uma ferramenta para os investidores calcularem o valor em cotas que eles precisam investir para atingir uma renda desejada. Isso é feito com base no rendimento mensal por cota do fundo imobiliário, permitindo que os investidores planejem suas estratégias de investimento de acordo com seus objetivos de renda.
+
+Resumidamente, este site serve como uma ferramenta de planejamento e cálculo financeiro para investidores de fundos imobiliários, ajudando-os a determinar a quantidade e o valor de suas cotas, a fim de atingir seus objetivos de renda mensal.
+
+--------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
