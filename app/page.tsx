@@ -16,6 +16,14 @@ export default function Home() {
           {/* campo(s)
           botao 
           resultado*/}
+          <div>
+            <label htmlFor=""></label>
+            <input type="number" name="" id="" />
+          </div>
+          <div>
+            <label htmlFor=""></label>
+            <input type="number" name="" id="" />
+          </div>
         </section>
         <section>
           <h2>Calcular valor em cotas para alcançar a renda desejada</h2>
